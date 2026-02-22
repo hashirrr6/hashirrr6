@@ -61,16 +61,23 @@ I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hashirrr6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrr6&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirrr6&theme=tokyonight&hide_border=true" />
-</div>
+<!-- Profile Summary Cards (always load) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashirrr6&theme=tokyonight" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashirrr6&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hashirrr6&theme=tokyonight" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashirrr6&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashirrr6&theme=tokyonight&utcOffset=8" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashirrr6&theme=tokyonight&no-frame=true&row=2&column=4" />
+<!-- Shields.io badges for quick stats -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hashirrr6?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/followers/hashirrr6?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/hashirrr6/hashirrr6?style=for-the-badge&logo=github&color=green" />
+</p>
+
 </div>
 
 ---
@@ -123,8 +130,6 @@ Bachelor of Computer Applications (BCA)
 ---
 
 ## 📫 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just tech in general. Feel free to reach out!
 
 <p align="center">
   <a href="https://hashirrr.netlify.app" target="_blank">
